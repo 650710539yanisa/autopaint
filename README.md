@@ -2,11 +2,8 @@
 
 An automation tool that paints images in the game **Heartopia** on a **114×150 canvas** using simulated mouse clicks, color matching, and smart palette navigation.
 
-## 🎥 Demo Video
+[![Heartopia Auto Painter Demo](https://img.youtube.com/vi/GN28BOSm8ik/maxresdefault.jpg)](https://www.youtube.com/watch?v=GN28BOSm8ik)
 
-[![Heartopia Auto Painter Demo](https://img.youtube.com/vi/ZUY5_z6PtOI/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZUY5_z6PtOI)
-
----
 
 ## ✨ Features
 
